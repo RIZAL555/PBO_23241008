@@ -48,9 +48,6 @@ public class App {
 
         // pakai setter untuk mengganti variabel static
         display1.setTipe("Monitor");
-        System.out.println("Objek1 : " + display1.tipe);
-        System.out.println("Objek2 : " + display2.tipe);
-        System.out.println("Class : " + Display.tipe);
 
     }
 }

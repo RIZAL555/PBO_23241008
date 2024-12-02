@@ -28,9 +28,8 @@ public class App {
         Player player2 = new Player("Pogba");
         Player player3 = new Player("Maguire");
         Player player4 = new Player("Rahmat");
-        Player player5 = new Player("Rian");
+        Player player5 = new Player("rizal");
 
         Player.showNumberOfPlayer();
     }
 }
-
