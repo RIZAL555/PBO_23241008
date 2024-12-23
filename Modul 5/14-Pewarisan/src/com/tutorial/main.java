@@ -42,7 +42,7 @@ class Anjing extends Hewan {
 // Kelas Utama untuk menjalankan program
 public class main {
     public static void main(String[] args) {
-        Kucing kucing = new Kucing("m.afrizal");
+        Kucing kucing = new Kucing("afrizal");
         Anjing anjing = new Anjing("rizal");
 
         System.out.println(kucing.nama + " berkata: " + kucing.suara());
