@@ -25,4 +25,5 @@ class member {
     void member1() {
         System.out.println("ini adalah member");
     }
+
 }
